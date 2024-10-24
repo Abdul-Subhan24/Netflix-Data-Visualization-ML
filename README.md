@@ -1,4 +1,4 @@
-# Netflix Content Analysis and Recommendation System**
+# Netflix Content Analysis and Recommendation System
 
 # Project Overview <br>
 The **Netflix Content Analysis and Recommendation System** project leverages a comprehensive dataset of Netflix's library to provide insights into content distribution, trends, and user preferences. This project integrates data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning techniques to build a robust recommendation system, offering personalized content suggestions to users. The goal is to enhance user engagement and facilitate a better understanding of Netflix's content offerings.
@@ -31,7 +31,7 @@ The **Netflix Content Analysis and Recommendation System** project leverages a c
 
 # Technologies Used <br>
 **Programming Languages:** Python <br>
-# Key Libraries: <br>
+# Key Libraries: 
 **- Data Manipulation:** Pandas, NumPy <br>
 **- Data Visualization:** Matplotlib, Seaborn, Plotly, WordCloud <br>
 **- Machine Learning:** Scikit-learn <br>
